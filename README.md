@@ -1,7 +1,7 @@
 # **Azure Function Typescript Hot Reload**
 
 ## Problem statement
-- For local API development, every time we save code, we have to stop and start debugging mode. 
+- For local API development, every time we save code, we have to stop and restart debugging mode. 
 - The compilation and server start takes avg ~2min. 
 - With hot-reload enablement, the debugging mode does not need to be stopped. 
 - Every time code is saved, automatic compilation and api server restart will happen. 
